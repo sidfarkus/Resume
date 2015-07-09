@@ -25,11 +25,17 @@ I have worked on the client side as well as the server and am deeply familiar wi
 
 ## Experience
 
-### CSC formerly 42six Solutions
+### LearnZillion
 
-#### Technical Lead - January 2012 to Present
+#### Senior Software Engineer - September 2014 to Present
 
-I wrote a JRuby + Java ORM for Apache Accumulo to provide advanced query support in a JRuby on Rails web app. I then assisted and took over as technical lead of the team creating the web app.  I introduced Knockout as a way to remove much of the jQuery code littering the app as well.
+Writing full stack code for a Ruby on Rails site http://learnzillion.com.  Handled hundreds of thousands of pageviews.
+
+### 42six Solutions (purchased by CSC)
+
+#### Technical Lead - January 2012 to September 2014
+
+I wrote a JRuby + Java ORM for Apache Accumulo to provide advanced query support in a JRuby on Rails web app. I then assisted and took over as technical lead of the team creating the web app.  I introduced Knockout as a way to remove much of the jQuery code littering the app as well.  I was then technical lead of a 6 person team writing  services for a distributed cloud architecture exposing PostgreSQL, Mongo, Accumulo, and Cloudera Impala over Apache Thrift.
 
 ### Northrop Grumman Information Systems
 
